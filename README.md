@@ -131,30 +131,8 @@ Open Windows Powershell in ```bash RUN AS ADMINISTRATOR ``` mode.
 
 
 
-
-
-
-
-
-
-
-
-
-
 ---
 <p align="right">(<a href="#readme-top">Back to top</a>)</p>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ---
@@ -200,15 +178,6 @@ Don't forget to give the project a star! Thanks again!
 ## 📝 **Additional notes**
 
 
-
-
-
-
-
-
-
-
-
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Project Link: [https://github.com/nrbnayon/NewsBlog](https://github.com/nrbnayon/NewsBlog)
@@ -217,14 +186,15 @@ Project Link: [https://github.com/nrbnayon/NewsBlog](https://github.com/nrbnayon
 
 ---
 
-
-
-
-
-
 ---
 
 ## 📸 **Project Screenshots**
+
+
+<img src="assets/admin.png" alt="admin" width="100" height="100">
+---
+<img src="assets/admin2.png" alt="admin" width="100" height="100">
+
 
 <p align="center">
 
@@ -235,7 +205,6 @@ Project Link: [https://github.com/nrbnayon/NewsBlog](https://github.com/nrbnayon
 <p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
 ## 🎉 Hope the project helpful for all.
-
 
 
 [contributors-shield]: https://img.shields.io/github/contributors/nrbnayon/NewsBlog.svg?style=for-the-badge
