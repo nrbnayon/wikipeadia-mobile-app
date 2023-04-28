@@ -60,3 +60,12 @@ export default function App() {
     </div>
   )
 }
+
+{/* <div className="max-w-screen-lg mx-auto">
+           <Routes>
+              <Route path='/' element  = {<Home/>}/>
+              <Route path='/create-post' element  = {<CreatePost/>}/>
+              <Route path='/update-post/:slug' element  = {<UpdatePost/>}/>
+              <Route path='/*' element  = {<NotFound/>}/>
+            </Routes>
+        </div> */}
