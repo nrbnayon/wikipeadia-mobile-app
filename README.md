@@ -1,4 +1,4 @@
-<h2 align="center">🔑News Blogging🔑</h2>
+<h2 align="center">🔑Wikipeadia Mobile App🔑</h2>
 
 <a name="readme-top"></a>
 
@@ -15,7 +15,7 @@
     <img src="assets/image2.jpg" alt="Logo" width="100" height="100">
   </a>
 
-<h3 align="center">News Blogging</h3>
+<h3 align="center">Wikipeadia Mobile App</h3>
 
   <p align="center">
    **📝Project Description📝**
@@ -70,7 +70,7 @@
 
 [![videos][product-screenshot]](https://example.com)
 
-"News Blogging" application is to create a mobile application that provides a user-friendly interface that is responsive, fast, and easy to navigate and allows users to access news and blog articles from various sources on a single platform, handles a large volume of traffic, and ensures the security of users' personal data. Users of the app could peruse and search for articles based on a variety of categories, including sports, entertainment, politics, business, and technology.
+"Wikipeadia Mobile App" application is to create a mobile application that provides a user-friendly interface that is responsive, fast, and easy to navigate and allows users to access news and blog articles from various sources on a single platform, handles a large volume of traffic, and ensures the security of users' personal data. Users of the app could peruse and search for articles based on a variety of categories, including sports, entertainment, politics, business, and technology.
 
 ---
 <p align="right">(<a href="#readme-top">Back to top</a>)</p>
